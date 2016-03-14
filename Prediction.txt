@@ -1,0 +1,12 @@
+
+ArrayList:
+	Balanced: O[n]
+	Sorted: O[n]
+
+Single-Linked List:
+	Balanced: O[n]
+	Sorted: O[n]
+
+BinaryTree:
+	Balanced: O[logn]
+	Sorted: O[n]
